@@ -1,0 +1,13 @@
+name = "Create & Co"
+author = "Brizzy"
+version = "1.0.0"
+pack-format = "packwiz:1.1.0"
+
+[index]
+file = "index.toml"
+hash-format = "sha256"
+hash = "6ea7da0e202da938c084cda09cc16c262bd79100e805da9176a12c0b24af7ab9"
+
+[versions]
+minecraft = "1.21.1"
+neoforge = "21.1.216"
