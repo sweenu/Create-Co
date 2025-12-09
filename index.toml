@@ -2360,7 +2360,7 @@ metafile = true
 
 [[files]]
 file = "mods/lithostitched.pw.toml"
-hash = "f8edc1d5fadb1b65f8f869893ec637ec8a5e5f92fb0a7f140e9e62977668f895"
+hash = "1bcfc5725a3640a049a81793be5a0efbda2aa0c42a9699144ca8e72e68716bd8"
 metafile = true
 
 [[files]]
@@ -2531,16 +2531,6 @@ metafile = true
 [[files]]
 file = "mods/servercore.pw.toml"
 hash = "00f400af981bbe8be3767ef49f4bc422a9649c3fa2d403bae7b25202a05fda1a"
-metafile = true
-
-[[files]]
-file = "mods/shoulder-surfing-reloaded.pw.toml"
-hash = "36b267786563e53b83417d4561a8db23895783792ad787601600a4d46f855378"
-metafile = true
-
-[[files]]
-file = "mods/shoulder-surfing-ultimine.pw.toml"
-hash = "60b641d80af6faa8ed7effe6a53a5d18c447d629967ea980c35ab32927b2932e"
 metafile = true
 
 [[files]]
