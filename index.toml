@@ -2014,6 +2014,11 @@ hash = "62f4eeff097d0a2d4dc7887e0f9de802ef8900ee369ce57bf56e0513cc1f8ff1"
 metafile = true
 
 [[files]]
+file = "mods/create-ender-link.pw.toml"
+hash = "bdaaa0b86e05f11ae01652a097cb827259a9f2e6a6b4d46f25081d3c78bd83d8"
+metafile = true
+
+[[files]]
 file = "mods/create-fishing-bobber-detector.pw.toml"
 hash = "64d5d61ad9be610cf870a27a658d94c61f1fd11399183172762ce6a857873c2e"
 metafile = true
@@ -2149,11 +2154,6 @@ hash = "84acb627f6b33af289d26d1622a61b28de99306eb863d679c865f6313de49e5d"
 metafile = true
 
 [[files]]
-file = "mods/easy-magic.pw.toml"
-hash = "8450a1d0a596b7380835c61e6b8f522e5635f17ea0a23f5784b37f67da45a196"
-metafile = true
-
-[[files]]
 file = "mods/emi-create-schematics.pw.toml"
 hash = "d062f8daf1ea2d368155b68c185f0c3ae7430765335b0ed3ef5b723431e10f38"
 metafile = true
@@ -2184,6 +2184,11 @@ hash = "7988c367539dd83722d24c50166e60c49c074ab9426afca9aca358b9cd2d0094"
 metafile = true
 
 [[files]]
+file = "mods/enchanting-infuser.pw.toml"
+hash = "6486106a7390a654715e158a5c59d804b69bf40a28736deb9a4f7742b811da06"
+metafile = true
+
+[[files]]
 file = "mods/entity-model-features.pw.toml"
 hash = "ab1c6950fa7f9d15bced567b14cb04379f811917f6316a75a516465e634a982a"
 metafile = true
@@ -2201,6 +2206,11 @@ metafile = true
 [[files]]
 file = "mods/esf.pw.toml"
 hash = "92327c92fc1cccabd4c8be48ca4847b14028f9567c7258fd16ce7d7a97ccc228"
+metafile = true
+
+[[files]]
+file = "mods/explorers-compass.pw.toml"
+hash = "de5ea0b6d6c303af3788a178996c39f46d260cd15a86121b1246b3591913d256"
 metafile = true
 
 [[files]]
@@ -2434,6 +2444,11 @@ hash = "8fb510d47dafc024cd08c0e80bfb59e192c354cb5db74c07dd146ee79fe8b885"
 metafile = true
 
 [[files]]
+file = "mods/natures-compass.pw.toml"
+hash = "abfc8909de1c851ccf4ef296e05d1017332a21fef76fd1f938828fcff925115b"
+metafile = true
+
+[[files]]
 file = "mods/nirvana-library.pw.toml"
 hash = "c541df8fb76d23642e1a6ba56ef0f20ddba155200044451f586df0142e31347f"
 metafile = true
@@ -2451,6 +2466,11 @@ metafile = true
 [[files]]
 file = "mods/oracle-index.pw.toml"
 hash = "3c7eeeaad08ffb099f8f742d678ce7421488ea696df30ee13729f2668fbab279"
+metafile = true
+
+[[files]]
+file = "mods/overflowing-bars.pw.toml"
+hash = "cb40fc0e1e0a3338d57b34a5ba2612ae9a9f0e32619695c4da637a98b4e52cf3"
 metafile = true
 
 [[files]]
