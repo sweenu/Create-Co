@@ -1744,11 +1744,6 @@ hash = "c2e156f1671f0dbc9c7131f8c82d251f8fc5fc1acd1ea30f48aecf5768bf82fb"
 metafile = true
 
 [[files]]
-file = "mods/apothic-combat.pw.toml"
-hash = "aa91277ef90fb1f3cdf6565dee98b017a8604f0b9a7945db0dcb45f600fae709"
-metafile = true
-
-[[files]]
 file = "mods/apothic-enchanting.pw.toml"
 hash = "12055d148b3ce9ff290ec9e11cf9c5425d1484d529cf15a5c2a7ca84c3a8fd61"
 metafile = true
