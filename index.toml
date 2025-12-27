@@ -2,7 +2,7 @@ hash-format = "sha256"
 
 [[files]]
 file = "TODO.md"
-hash = "bc810c1ff9214421e840c6af69a20b0ac4190daaae3fab799d282e29d1c442bc"
+hash = "2536f22c3fa070395be114862474ab293a385401c35e8fd25817d1687f3cf3f5"
 
 [[files]]
 file = "config/CoroUtil/General.toml"
